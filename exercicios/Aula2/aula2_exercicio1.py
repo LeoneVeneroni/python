@@ -1,0 +1,26 @@
+largura=17
+altura=12.0
+delimitador="."
+print('largura=17')
+print('altura=12.0')
+print('delimitador="."')
+print('======================')
+print('largura/2')
+print('Resposta =', largura/2)
+print('Tipo =', type(largura/2))
+print('======================')
+delimitador*5
+print('Resposta =', largura/2.0)
+print('Tipo =',type(largura/2.0))
+print('======================')
+print('altura/3')
+print('Resposta =', altura/3)
+print('Tipo =',type(altura/3))
+print('======================')
+print('1+2*5')
+print('Resposta =', 1+2*5)
+print('Tipo =',type(1+2*5))
+print('======================')
+print('delimitador*5')
+print('Resposta =', delimitador*5)
+print('Tipo =',type(delimitador*5))
